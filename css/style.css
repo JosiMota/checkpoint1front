@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+ }
+
+body{ width: 1260px;
+    margin: 0%;
+}
+.cabecalho{
+    background-color:rgb(4, 197, 223);
+    height: 100%;
+    display:flex;
+    align-items:center;
+   padding:10px;
+}
+ul{ display: flex;
+    margin-left: 60%;
+}
+a{ color:rgb(26, 23, 23);
+    font-family: 'Smooch Sans', sans-serif;
+
+}
+.list1{
+    display: inline-block;
+    margin: 15%;
+}
+.fundo{
+
+    width: 1260px;
+    height:300px;
+}
+p{ font-family: 'Fredoka', sans-serif;
+    font-size:100%;
+    color: rgb(62, 31, 241);
+    text-align: justify;
+    width:80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    text-shadow: 0 0 3px #FF0000;
+}
+span{ color: black;
+    font-weight: 1%;
+
+}
+h2{ 
+    margin-top: 10%;
+    margin-left: 15%;
+    font-family: smooth,sans-serif;
+    text-shadow: 0 0 3px #1733d3;
+}
+.container{
+    display:flex;
+    position:center;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top:15%;
+
+}
+.title{
+    color: black;
+}
+.imagens{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    border-radius: 30px;
+    margin: 0%;
+}
+.video{
+    align-items: center;
+    left:50%;
+    width: 60%;
+    margin-top: 10% ;
+    margin-left: 20%;
+
+}
+footer{
+    background-color:rgb(4, 197, 223);
+    margin-top:10%;
+    display:flex;
+    
+}
+.icone{
+    width: 10%;
+    margin: 1%;
+    margin-left: 90%;
+
+}
+.icone2{
+    width: 10%;
+    margin: 1%;
+    margin-left:50%;
+}
+
+
